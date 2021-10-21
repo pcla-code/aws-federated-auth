@@ -1,0 +1,3 @@
+keyring
+pennshib@git+ssh://git@bitbucket.org/codeforpenn/pennshib.git
+awsshib@git+ssh://git@bitbucket.org/codeforpenn/awsshib.git
